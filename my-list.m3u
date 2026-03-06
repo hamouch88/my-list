@@ -738,7 +738,7 @@ https://136044159.r.cdnsun.net/storychannedl.m3u8
 https://136044159.r.cdnsun.net/storychannedl.m3u8
 #EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="General",assadissa
 https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/fr/aflam" group-title="General",StoryChannelTV.ma
+#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="General",aflam
 https://136044159.r.cdnsun.net/storychannedl.m3u8
 #EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",StoryChannelTV.ma
 https://136044159.r.cdnsun.net/storychanndel.m3u8
@@ -746,6 +746,7 @@ https://136044159.r.cdnsun.net/storychanndel.m3u8
 https://136044159.r.cdnsun.net/storychanndl.m3u8
 #EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",arryadia
 https://136044159.r.cdnsun.net/storychannedl.m3u8
+
 
 
 
