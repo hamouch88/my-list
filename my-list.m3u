@@ -730,6 +730,23 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="General",al-aoula
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="General",almaghribia
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="General",laayoune
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="General",assadissa
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/fr/aflam" group-title="General",StoryChannelTV.ma
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",StoryChannelTV.ma
+https://136044159.r.cdnsun.net/storychanndel.m3u8
+#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",athaqafia
+https://136044159.r.cdnsun.net/storychanndl.m3u8
+#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",arryadia
+https://136044159.r.cdnsun.net/storychannedl.m3u8
+
 
 
 
