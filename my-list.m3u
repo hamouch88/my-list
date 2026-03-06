@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2M Monde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde 
+#EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde 
 https://stream-lb.livemediama.com/2m/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="General",Story ChannelTV
+#EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="General",Story ChannelTV
 https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfriquee.ma" tvg-logo="https://b.top4top.io/p_3717g0rxw1.png" group-title="General",Medi1TV Afrique 
+#EXTINF:-1 tvg-id="Medi1TVAfriquee.maroc" tvg-logo="https://b.top4top.io/p_3717g0rxw1.png" group-title="General",Medi1TV Afrique 
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="General",ChadaTV
+#EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="General",ChadaTV
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Music",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
@@ -730,6 +730,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
