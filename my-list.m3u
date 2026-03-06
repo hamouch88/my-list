@@ -2,6 +2,22 @@
 
 #EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde 
 https://stream-lb.livemediama.com/2m/hls/stream_4/playlist.m3u8
+#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="General",al-aoula
+https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
+#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="General",almaghribia
+https://stream-lb.livemediama.com/almaghribia/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="General",laayoune
+https://stream-lb.livemediama.com/laayounetv/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="General",assadissa
+https://stream-lb.livemediama.com/assadissa/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="General",aflam
+https://stream-lb.livemediama.com/aflam/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",StoryChannelTV.ma
+https://stream-lb.livemediama.com/tamazight/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",athaqafia
+https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
+#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",arryadia
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_4/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="General",Story ChannelTV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfriquee.maroc" tvg-logo="https://b.top4top.io/p_3717g0rxw1.png" group-title="General",Medi1TV Afrique 
@@ -730,22 +746,8 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="General",al-aoula
-https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="General",almaghribia
-https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="General",laayoune
-https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="General",assadissa
-https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="General",aflam
-https://136044159.r.cdnsun.net/storychannedl.m3u8
-#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",StoryChannelTV.ma
-https://136044159.r.cdnsun.net/storychanndel.m3u8
-#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",athaqafia
-https://136044159.r.cdnsun.net/storychanndl.m3u8
-#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",arryadia
-https://136044159.r.cdnsun.net/storychannedl.m3u8
+
+
 
 
 
