@@ -83,6 +83,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://k.top4top.io/p_3718nxxwu1.jpg" group-title="Movies",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae@HD" tvg-logo="https://i.imgur.com/iSbZqn4.png" group-title="General",Abu Dhabi Emirates (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
@@ -713,6 +715,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
