@@ -13,7 +13,10 @@ https://stream-lb.livemediama.com/assadissa/hls/stream_3/playlist.m3u8
 https://stream-lb.livemediama.com/aflam/hls/stream_3/playlist.m3u8
 #EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",Tamazight
 https://stream-lb.livemediama.com/tamazight/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",Athaqafia
+#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="General",Athaqafia
+https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",M24 Maroc
 https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",Arryadia1
@@ -741,6 +744,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
