@@ -15,10 +15,15 @@ https://stream-lb.livemediama.com/aflam/hls/stream_3/playlist.m3u8
 https://stream-lb.livemediama.com/tamazight/hls/stream_3/playlist.m3u8
 #EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",Athaqafia
 https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
-#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",Arryadia
-https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD1" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="General",ArryadiaHD1
+
+#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",Arryadia1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="General",Arryadia2
+https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="General",Arryadia3
+https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="General",Arryadia-TNT
+https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_4/playlist.m3u8
 
 
 
@@ -736,6 +741,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
