@@ -26,11 +26,11 @@ http://5.253.46.190:8000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="General",Story ChannelTV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfriquee.maroc" tvg-logo="https://b.top4top.io/p_3717g0rxw1.png" group-title="General",Medi1TV Afrique 
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="General",ChadaTV
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele MAroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="General",Tele MAroc
-https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
+https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV.dz@SD" tvg-logo="https://i.imgur.com/F0DOrxX.png" group-title="General",TV1 Algerian Televisio
 http://5.253.46.190:8000/play/a0eu/index.m3u8
@@ -736,6 +736,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
