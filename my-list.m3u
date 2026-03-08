@@ -41,9 +41,7 @@ http://5.253.46.190:8000/play/a0eq/index.m3u8
 http://5.253.46.190:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="TV9.dz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/TV9.svg/langfr-250px-TV9.svg.png" group-title="General"TV9 Barlamaniya
 http://5.253.46.190:8000/play/a0es/index.m3u8
-#EXTINF:-1 tvg-id="BerbereTV.dz@SD" tvg-logo="https://l.top4top.io/p_37192fwhx1.png" group-title=General""BerbereTV
-http://5.253.46.190:8000/play/a0fi/index.m3u8
-#EXTINF:-1 tvg-id="ChebabTV.dz@SD" tvg-logo="https://i.imgur.com/yp2clII.png" group-title="General"ChebabTV
+#EXTINF:-1 tvg-id="ChebabTV.dz@SD" tvg-logo="https://i.imgur.com/yp2clII.png" group-title="General",ChebabTV
 http://5.253.46.190:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="CNA.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="General",CNA
 http://5.253.46.190:8000/play/a0eu/index.m3u8
@@ -731,6 +729,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
