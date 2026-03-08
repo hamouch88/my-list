@@ -24,30 +24,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_d
 #EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="General",ChadaTV
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV1.dz" tvg-logo="https://i.imgur.com/F0DOrxX.pngg" group-title="TV1 Algerian Televisio
-http://5.253.46.190:8000/play/a0eu/index.m3u8
-
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="TV2 Canal Algérie
-http://5.253.46.190:8000/play/a0em/index.m3u8
-
-#EXTINF:-1 tvg-id="TV4" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="TV4 Tamazight TV
-http://5.253.46.190:8000/play/a0en/index.m3u8
-
-#EXTINF:-1 tvg-id="TV5" tvg-logo="URL.png" group-title="TV5 Coran
-http://5.253.46.190:8000/play/a0eo/index.m3u8
-
-#EXTINF:-1 tvg-id="TV6 a" tvg-logo="https://i.imgur.com/nu0CpJn.png" group-title="TV6 El-Chebabia
-http://5.253.46.190:8000/play/a0ep/index.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="TV7 El-Maarifa
-http://5.253.46.190:8000/play/a0eq/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8" tvg-logo="https://i.imgur.com/LlQcIWM.png" group-title="TV8 El-Dhakira
-http://5.253.46.190:8000/play/a0er/index.m3u8
-
-#EXTINF:-1 tvg-id="TV9.dz@SD" tvg-logo="URL.png" group-title="TV9 El-Barlamaniya
-http://5.253.46.190:8000/play/a0es/index.m3u8
-
 #EXTINF:-1 tvg-id="BerbereTV" tvg-logo="https://l.top4top.io/p_37192fwhx1.png" group-title="BerbereTV
 http://5.253.46.190:8000/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action (1080p)
@@ -743,6 +719,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
