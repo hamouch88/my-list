@@ -25,7 +25,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_d
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TV.dz@SD" tvg-logo="https://i.imgur.com/F0DOrxX.pngg" group-title="General",TV1 Algerian Televisio
+#EXTINF:-1 tvg-id="TV.dz@SD" tvg-logo="https://i.imgur.com/F0DOrxX.png" group-title="General",TV1 Algerian Televisio
 http://5.253.46.190:8000/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 Canal Algérie
 http://5.253.46.190:8000/play/a0em/index.m3u8
@@ -39,7 +39,7 @@ http://5.253.46.190:8000/play/a0ep/index.m3u8
 http://5.253.46.190:8000/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="TV8.dz@SD" tvg-logo="https://i.imgur.com/LlQcIWM.png" group-title="General",TV8 El-Dhakira
 http://5.253.46.190:8000/play/a0er/index.m3u8
-#EXTINF:-1 tvg-id="TV9.dz@SD" tvg-logo="URL.png" group-title="General"TV9 El-Barlamaniya
+#EXTINF:-1 tvg-id="TV9.dz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/TV9.svg/langfr-250px-TV9.svg.png" group-title="General"TV9 El-Barlamaniya
 http://5.253.46.190:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-id="BerbereTV.dz@SD" tvg-logo="https://l.top4top.io/p_37192fwhx1.png" group-title=General""BerbereTV
 http://5.253.46.190:8000/play/a0fi/index.m3u8
@@ -748,6 +748,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
