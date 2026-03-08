@@ -31,7 +31,7 @@ http://5.253.46.190:8000/play/a0eu/index.m3u8
 http://5.253.46.190:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="TV4.dz@SD" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="General",TV4 Tamazight TV
 http://5.253.46.190:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id="TV5.dz@SD" tvg-logo="URL.png" group-title=""General",TV5 Coran
+#EXTINF:-1 tvg-id="TV5.dz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/TV5_Algeria_logo_%282020%29.svg" group-title=""General",TV5 Coran
 http://5.253.46.190:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-id="TV6.dz@SD" tvg-logo="https://i.imgur.com/nu0CpJn.png" group-title="General",TV6 El-Chebabia
 http://5.253.46.190:8000/play/a0ep/index.m3u8
@@ -47,7 +47,7 @@ http://5.253.46.190:8000/play/a0fi/index.m3u8
 http://5.253.46.190:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="CNA.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="General",CNA
 http://5.253.46.190:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-id="Amou Yazid.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="General",Amou Yazid
+#EXTINF:-1 tvg-id="Amou Yazid.dz@SD" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="General",Amou Yazid
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 
@@ -748,6 +748,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
