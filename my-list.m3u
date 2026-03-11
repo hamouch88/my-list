@@ -35,7 +35,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 #EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="General",M24 Maroc
 https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Music",Abdulmajeed Abdullah 
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://a.top4top.io/p_37227mthx1.png" group-title="Music",Abdulmajeed Abdullah 
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -701,6 +701,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
