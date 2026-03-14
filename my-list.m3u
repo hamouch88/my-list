@@ -37,6 +37,8 @@ https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="MixOne.eg@SD" tvg-logo="https://media0098.elcinema.com/tvguide/1373_1.png" group-title="Movies",Mix One
+https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-1080p.m3u8?pkg_media=video&pkg_hm=index.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
