@@ -35,6 +35,9 @@ https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 #EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="General",M24 Maroc
 https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="MixHollywood" tvg-logo="https://img.ahlmasrnews.com/600x/2021/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-mix-hollywood-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2021-%D8%B9%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D8%B3%D8%A7%D8%AA-1630256572-0.jpg" group-title="General",MixHollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://a.top4top.io/p_37227mthx1.png" group-title="Music",Abdulmajeed Abdullah 
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya
