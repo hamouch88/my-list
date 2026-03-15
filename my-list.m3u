@@ -51,7 +51,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/in
 https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="Seen.eg@SD" tvg-logo="https://shahid.mbc.net/mediaObject/20dbcfe4-036e-451a-9d7e-80d90c0d7840?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="mbc",Seen
 https://shd-amg-fast-orng.shahid.net/tx022/1080p-d/index.m3u8
-#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="mbc,kids",spacetoon
+#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="kids",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 
 
@@ -387,8 +387,6 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Religious",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",I24 News Arabic
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Arabic
 https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2.iq@SD" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Religious",Imam Hussein TV 2
