@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde 
+#EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="maroc",2M Monde 
 https://stream-lb.livemediama.com/2m/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="General",Al-aoula
+#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="maroc",Al-aoula
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
-#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="General",Almaghribia
+#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="maroc",Almaghribia
 https://stream-lb.livemediama.com/almaghribia/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="General",Laayoune
+#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="maroc",Laayoune
 https://stream-lb.livemediama.com/laayounetv/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="General",Assadissa
+#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="maroc",Assadissa
 https://stream-lb.livemediama.com/assadissa/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="General",Aflam
+#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="maroc",Aflam
 https://stream-lb.livemediama.com/aflam/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="General",Tamazight
+#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="maroc",Tamazight
 https://stream-lb.livemediama.com/tamazight/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="General",Athaqafia
+#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="maroc",Athaqafia
 https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
-#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="General",Arryadia HD1
+#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="maroc",Arryadia HD1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD2" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="General",Arryadia HD2
+#EXTINF:-1 tvg-id="ArryadiaHD2" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="maroc",Arryadia HD2
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD3" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="General",Arryadia HD3
+#EXTINF:-1 tvg-id="ArryadiaHD3" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="maroc",Arryadia HD3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="ArryadiaTNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="General",Arryadia-TNT
+#EXTINF:-1 tvg-id="ArryadiaTNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="maroc",Arryadia-TNT
 https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="General",Story ChannelTV
+#EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="maroc",Story ChannelTV
 https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="medi1tv-maghreb" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-maghreb.png" group-title="General",Medi1TV Maghreb
+#EXTINF:-1 tvg-id="medi1tv-maghreb" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-maghreb.png" group-title="maroc",Medi1TV Maghreb
 https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8
-#EXTINF:-1 tvg-id="Medi1TV Arabic" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-arabic.png" group-title="General",Medi1TV Arabic
+#EXTINF:-1 tvg-id="Medi1TV Arabic" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-arabic.png" group-title="maroc",Medi1TV Arabic
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="General",ChadaTV
+#EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="maroc",ChadaTV
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele MAroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="General",Tele MAroc
+#EXTINF:-1 tvg-id="Tele MAroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="maroc",Tele MAroc
 https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="General",M24 Maroc
+#EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="maroc",M24 Maroc
 
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
@@ -66,37 +66,37 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa@SD" tvg-logo="https://i.imgur.com/nJmi6G6.png" group-title="News",Al Jazeera Mubasher Broadcast 2 
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1
+#EXTINF:-1 tvg-id="MBC1.ae@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 Egypt 
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBCl",MBC 1 Egypt 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 USA
+#EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 USA 
+#EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids ",MBC 3 USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Entertainment",MBC 4 
+#EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 
+#EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC",MBC 5 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood 
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC",MBC Bollywood 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama.ae@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Entertainment",MBC Drama
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Series",MBC Drama USA 
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",MBC Iraq
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Series",MBC Masr Drama
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC",MBC Masr Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasrUSA.us@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr USA
+#EXTINF:-1 tvg-id="MBCMasrUSA.us@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC",MBC Masr USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://k.top4top.io/p_3718nxxwu1.jpg" group-title="Movies",MBC Persia
+#EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://k.top4top.io/p_3718nxxwu1.jpg" group-title="MBC",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies 
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
