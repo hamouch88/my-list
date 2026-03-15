@@ -45,7 +45,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="Ramez.sa@SD" tvg-logo="https://k.top4top.io/p_37255isq01.png" group-title="Movies",Ramez
 https://shd-amg-fast.edgenextcdn.net/tx031/1080p-d/index.m3u8
-#EXTINF:-1 tvg-id="fifaplus@SD" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png" group-title="SPORTS",Fifa Plus
+#EXTINF:-1 tvg-id="fifaplus@SD" tvg-logo="https://shahid.mbc.net/mediaObject/dcd06e74-78eb-4d5b-af97-3c6fea8cad5c?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="SPORTS",Fifa Plus
 https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
 #EXTINF:-1 tvg-id="Al-Sadma" tvg-logo="https://shahid.mbc.net/mediaObject/6fa0ee9d-7f60-4815-b075-8a6311d08086?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="mbc",Al-Sadma
 https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
