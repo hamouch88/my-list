@@ -52,6 +52,9 @@ https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=vide
 #EXTINF:-1 tvg-id="Seen.eg@SD" tvg-logo="https://shahid.mbc.net/mediaObject/20dbcfe4-036e-451a-9d7e-80d90c0d7840?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="mbc",Seen
 https://shd-amg-fast-orng.shahid.net/tx022/1080p-d/index.m3u8
 
+#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="mbc,kids",spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
