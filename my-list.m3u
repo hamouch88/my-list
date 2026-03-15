@@ -43,16 +43,6 @@ https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-1080p.m3u8?pkg_media=video&pk
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-id="Ramez.sa@SD" tvg-logo="https://k.top4top.io/p_37255isq01.png" group-title="Movies",Ramez
-https://shd-amg-fast.edgenextcdn.net/tx031/1080p-d/index.m3u8
-#EXTINF:-1 tvg-id="fifaplus@SD" tvg-logo="https://shahid.mbc.net/mediaObject/dcd06e74-78eb-4d5b-af97-3c6fea8cad5c?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="SPORTS",Fifa Plus
-https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
-#EXTINF:-1 tvg-id="Al-Sadma" tvg-logo="https://shahid.mbc.net/mediaObject/6fa0ee9d-7f60-4815-b075-8a6311d08086?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="mbc",Al-Sadma
-https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
-#EXTINF:-1 tvg-id="Seen.eg@SD" tvg-logo="https://shahid.mbc.net/mediaObject/20dbcfe4-036e-451a-9d7e-80d90c0d7840?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="mbc",Seen
-https://shd-amg-fast-orng.shahid.net/tx022/1080p-d/index.m3u8
-#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="kids",Spacetoon
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 
 
 
@@ -112,6 +102,18 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://k.top4top.io/p_3718nxxwu1.jpg" group-title="MBC",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Ramez.sa@SD" tvg-logo="https://k.top4top.io/p_37255isq01.png" group-title="Movies",Ramez
+https://shd-amg-fast.edgenextcdn.net/tx031/1080p-d/index.m3u8
+#EXTINF:-1 tvg-id="fifaplus@SD" tvg-logo="https://shahid.mbc.net/mediaObject/dcd06e74-78eb-4d5b-af97-3c6fea8cad5c?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="SPORTS",Fifa Plus
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
+#EXTINF:-1 tvg-id="Al-Sadma" tvg-logo="https://shahid.mbc.net/mediaObject/6fa0ee9d-7f60-4815-b075-8a6311d08086?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="mbc",Al-Sadma
+https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="Seen.eg@SD" tvg-logo="https://shahid.mbc.net/mediaObject/20dbcfe4-036e-451a-9d7e-80d90c0d7840?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="mbc",Seen
+https://shd-amg-fast-orng.shahid.net/tx022/1080p-d/index.m3u8
+#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="kids",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies 
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
