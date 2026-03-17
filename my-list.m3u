@@ -244,24 +244,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om@SD" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="Religious",Alistiqama TV 
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="AlkassFive.qa@SD" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Sports",Alkass Five 
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa@SD" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports",Alkass Four 
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassOne.qa@SD" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sports",Alkass One 
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSeven.qa@SD" tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="Sports",Alkass Seven
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Sports",Alkass SHOOF 
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="Sports",Alkass SHOOF 2
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSix.qa@SD" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sports",Alkass Six 
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sports",Alkass Three 
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two 
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir@SD" tvg-logo="https://i.imgur.com/x4zUmY1.png" group-title="Culture;Religious",AlKawthar
 https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
 #EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us@SD" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="Religious",Almagd TV Middle East 
