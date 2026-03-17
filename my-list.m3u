@@ -1,4 +1,5 @@
 #EXTM3U
+Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="maroc",2M Monde 
 https://stream-lb.livemediama.com/2m/hls/stream_4/playlist.m3u8
 #EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="maroc",Al-aoula
