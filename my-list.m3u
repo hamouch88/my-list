@@ -35,6 +35,8 @@ https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele MAroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="maroc",Tele MAroc
 https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 #EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="maroc",M24 Maroc
+https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZEE ALWAN@SD" tvg-logo="https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png" group-title="Movies",ZEE ALWAN
 https://vsd115.okcdn.ru/hls/12408178346612_493324.m3u8/sig/zTxkZIVkhNA/expires/1775045747148/srcIp/41.141.51.50/urls/185.226.55.79/clientType/0/srcAg/CHROME/mid/12900173291124/video.m3u8?p
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood (1080p)
