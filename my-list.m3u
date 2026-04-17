@@ -108,6 +108,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://k.top4top.io/p_3718nxxwu1.jpg" group-title="MBC",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network@SD" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/6a8b1969d82a5a26b144a73c2a1179f1.svg" group-title="Cartoon",Cartoon Network
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c983a7/index.m3u8
 
 #EXTINF:-1 tvg-id="Ramez.sa@SD" tvg-logo="https://k.top4top.io/p_37255isq01.png" group-title="Movies",Ramez
 https://shd-amg-fast.edgenextcdn.net/tx031/1080p-d/index.m3u8
