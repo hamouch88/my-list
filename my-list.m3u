@@ -38,9 +38,9 @@ https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
 https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZEE ALWAN@SD" tvg-logo="https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png" group-title="Movies",ZEE ALWAN
-https://vsd74.okcdn.ru/hls/14583096478341.m3u8/sig/T-QzvDWw5Mg/expires/1776771431351/srcIp/41.143.56.176/urls/45.136.22.58/clientType/0/srcAg/CHROME/mid/13596787154565/14583096478341_low/index.m3u8
+https://vsd115.okcdn.ru/hls/14583096478341.m3u8/sig/MkA0RtxZSfg/expires/1776861187715/srcIp/41.141.155.94/urls/185.226.53.69/clientType/0/srcAg/CHROME/mid/13596787154565/video.m3u8?p
 #EXTINF:-1 tvg-id="ZEE AFLAM@SD" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.svg" group-title="Movies",ZEE AFLAM
-https://vsd74.okcdn.ru/hls/14583096478341.m3u8/sig/T-QzvDWw5Mg/expires/1776771431351/srcIp/41.143.56.176/urls/45.136.22.58/clientType/0/srcAg/CHROME/mid/13596787154565/14583096478341_low/index.m3u8
+https://vsd115.okcdn.ru/hls/14583096478341.m3u8/sig/MkA0RtxZSfg/expires/1776861187715/srcIp/41.141.155.94/urls/185.226.53.69/clientType/0/srcAg/CHROME/mid/13596787154565/video.m3u8?p
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood 
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="MixOne.eg@SD" tvg-logo="https://media0098.elcinema.com/tvguide/1373_1.png" group-title="Movies",Mix One
