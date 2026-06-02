@@ -97,7 +97,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 #EXTINF:-1 tvg-id="MBC.Action" tvg-logo="https://up6.cc/2025/06/174931494047511.jpg" group-title="movies ",MBC Action
 https://flu.systemnet.tv/MBCAction/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MBC.Max@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/MBC_Max_Logo.svg" group-title="movies ",MBC Max
+#EXTINF:-1 tvg-id="MBC.Max@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kogNg3jz871qCXhlpvwzWKkeNPfT9LsujUDw95gDECJhs=s900-c-k-c0x00ffffff-no-rj" group-title="movies ",MBC Max
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC",MBC Bollywood 
