@@ -3,41 +3,6 @@ Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="maroc",2M Monde 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="al-aoula.maroc" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="maroc",Al-aoula
-https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
-#EXTINF:-1 tvg-id="almaghribia.maroc" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="maroc",Almaghribia
-https://stream-lb.livemediama.com/almaghribia/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="laayoune.maroc" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="maroc",Laayoune
-https://stream-lb.livemediama.com/laayounetv/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="assadissa.maroc" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="maroc",Assadissa
-https://stream-lb.livemediama.com/assadissa/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="aflam.maroc" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="maroc",Aflam
-https://stream-lb.livemediama.com/aflam/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="tamazight.maroc" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="maroc",Tamazight
-https://stream-lb.livemediama.com/tamazight/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="athaqafia.maroc" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="maroc",Athaqafia
-https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
-#EXTINF:-1 tvg-id="arryadia.maroc" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="maroc",Arryadia HD1
-https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD2" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="maroc",Arryadia HD2
-https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD3" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="maroc",Arryadia HD3
-https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="ArryadiaTNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="maroc",Arryadia-TNT
-https://stream-lb.livemediama.com/arryadia-tnt/hls/stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.maroc" tvg-logo="https://c.top4top.io/p_37174comp1.png" group-title="maroc",Story ChannelTV
-https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="medi1tv-maghreb" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-maghreb.png" group-title="maroc",Medi1TV Maghreb
-https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8
-#EXTINF:-1 tvg-id="Medi1TV Arabic" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-arabic.png" group-title="maroc",Medi1TV Arabic
-https://stream-lb.livemediama.com/medi1tv-arabic/hls/stream_4/playlist.m3u8
-#EXTINF:-1 tvg-id="ChadaTV.maroc" tvg-logo="https://l.top4top.io/p_37176325b1.jpg" group-title="maroc",ChadaTV
-https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele MAroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="maroc",Tele MAroc
-https://stream-lb.livemediama.com/telemaroc/hls/stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="m24.maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="maroc",M24 Maroc
-https://stream-lb.livemediama.com/m24maroc/hls/stream_3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZEE ALWAN@SD" tvg-logo="https://www.zeealwan.com/wp-content/themes/zeeaflam/images/logo.png" group-title="Movies",ZEE ALWAN
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-id="ZEE AFLAM@SD" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.svg" group-title="Movies",ZEE AFLAM
