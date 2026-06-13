@@ -5,7 +5,7 @@ Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/The_new_logo_of_beIN_MAX_1_at_2017.png" group-title="maroc",Bein MAx 1
-
+https://vsd123.okcdn.ru/hls/16639939119785.m3u8/sig/kIbsOQikZJE/expires/1781400318528/srcIp/41.143.62.70/urls/185.226.53.96/clientType/0/srcAg/CHROME/mid/14952695602857/video.m3u8?p 
 
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood 
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
