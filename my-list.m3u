@@ -1,15 +1,6 @@
 #EXTM3U
-Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
-
 #EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png " group-title="maroc",2M Monde 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-
-#EXTINF:-1 tvg-id="BeinSportsmax2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/The_new_logo_of_beIN_MAX_1_at_2017.png" group-title="beinsports",Bein MAx 1
-https://vsd123.okcdn.ru/hls/16639939119785.m3u8/sig/kIbsOQikZJE/expires/1781400318528/srcIp/41.143.62.70/urls/185.226.53.96/clientType/0/srcAg/CHROME/mid/14952695602857/video.m3u8?p 
-
-#EXTINF:-1 tvg-id="BeinSports" tvg-logo="https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=102&type=100&ration=1&languageId=ara" group-title="beinsportsmax",Bein MAx 2
-https://vsd123.okcdn.ru/hls/16639939119785.m3u8/sig/kIbsOQikZJE/expires/1781400318528/srcIp/41.143.62.70/urls/185.226.53.96/clientType/0/srcAg/CHROME/mid/14952695602857/video.m3u8?p 
-
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood 
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="MixOne.eg@SD" tvg-logo="https://media0098.elcinema.com/tvguide/1373_1.png" group-title="Movies",Mix One
@@ -18,10 +9,6 @@ https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-720p.m3u8?pkg_media=video&pkg
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller 
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://a.top4top.io/p_37227mthx1.png" group-title="Music",Abdulmajeed Abdullah 
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya
@@ -43,31 +30,24 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa@SD" tvg-logo="https://i.imgur.com/nJmi6G6.png" group-title="News",Al Jazeera Mubasher Broadcast 2 
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-
-
 #EXTINF:-1 tvg-id="MBC1.ae@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBCl",MBC 1 Egypt 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-
 #EXTINF:-1 tvg-id="MBC2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="movies ",MBC 2
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids ",MBC 3 USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC",MBC 5 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-
 #EXTINF:-1 tvg-id="MBC.Action" tvg-logo="https://up6.cc/2025/06/174931494047511.jpg" group-title="movies ",MBC Action
 https://flu.systemnet.tv/MBCAction/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MBC.Max@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kogNg3jz871qCXhlpvwzWKkeNPfT9LsujUDw95gDECJhs=s900-c-k-c0x00ffffff-no-rj" group-title="movies ",MBC Max
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC",MBC Bollywood 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama
@@ -90,7 +70,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network@SD" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/6a8b1969d82a5a26b144a73c2a1179f1.svg" group-title="Cartoon",Cartoon Network
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c983a7/index.m3u8
-
 #EXTINF:-1 tvg-id="Ramez.sa@SD" tvg-logo="https://k.top4top.io/p_37255isq01.png" group-title="Movies",Ramez
 https://shd-amg-fast.edgenextcdn.net/tx031/1080p-d/index.m3u8
 #EXTINF:-1 tvg-id="fifaplus@SD" tvg-logo="https://shahid.mbc.net/mediaObject/dcd06e74-78eb-4d5b-af97-3c6fea8cad5c?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="SPORTS",Fifa Plus
@@ -101,18 +80,12 @@ https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8?aws.manifestfilter=vide
 https://shd-amg-fast-orng.shahid.net/tx022/1080p-d/index.m3u8
 #EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="kids",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies 
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="Action Hollywood" tvg-logo="https://j.top4top.io/p_3718cp2cy1.png" group-title="Undefined",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" tvg-logo="https://i.imgur.com/r8MmFRX.png" group-title="News",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Aflam.sa@SD" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Movies",Aflam
