@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BeinSportsMax" tvg-logo="https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=101&type=100&ration=1&languageId=ara" group-title="BeinSportsMax",Bein Sports Max1 
+http://off27.lynxcontents.click:2086/live/171348492752/5S6HGsea3j/255224.m3u8?data=Nfe0ONPVXn7oJx8SjdVZY0wE2VUR54ndbhA_P_9WnD_fzWBKHHOzuwiMU9_0xRqH0A6BBvfjz057zmE5GvksyPWoXIveYie6oUgfECyakOgSBgVWlPRyW-xjhzd_ObhkaXFO3F7k3xxOnArDHOFe-w%3D%3D&expires=1781809205
+
+
+
 #EXTINF:-1 tvg-id="2M Monde.maroc" tvg-logo="https://i.imgur.com/MvpntzA.png " group-title="maroc",2M Monde 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood 
